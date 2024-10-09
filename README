@@ -1,5 +1,7 @@
 ## AI tools
 
-choose between an ai voice chat or an ai voice text to speech
+built in Python using pygame. it uses dontenv for handling API keys. you will need to supply you will be prompted to supply an OpenAI API key in the app. to complile just run ```python main.py``` and pip install whatever it says it missing.
+
+To use the app, supply your AI key when prompted. that's it! you're ready to choose between an ai voice chat, or an ai voice text to speech. the AI will process the entire text bit by bit before reading, be aware this can take a long time for longer texts.
 
 
