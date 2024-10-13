@@ -4,4 +4,6 @@ built in Python using pygame. it uses dontenv for handling API keys. you will ne
 
 To use the app, supply your AI key when prompted. that's it! you're ready to choose between an ai voice chat, or an ai voice text to speech. the AI will process the entire text bit by bit before reading, be aware this can take a long time for longer texts.
 
-
+[ ] provide clear indications when a text is being processed and has been processed
+[ ] fix pause functionality
+[x] basic app made
